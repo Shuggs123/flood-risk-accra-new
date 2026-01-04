@@ -1,0 +1,28 @@
+# Flood Risk Analysis in Accra, Ghana
+
+## Overview
+This project applies geospatial analytics to assess flood risk in Accra, Ghana. By integrating elevation data, river proximity, and urban land use, the study identifies flood-prone zones and demonstrates spatial data science workflows relevant to urban resilience research.
+
+## Objectives
+- Identify high-risk flood zones in Accra
+- Demonstrate GIS-based spatial analysis using Python
+- Support data-driven urban planning discussions
+
+## Data Sources
+- Digital Elevation Model (DEM)
+- OpenStreetMap rivers and roads
+- Urban boundary data for Accra
+
+## Methods
+- Spatial buffering of river networks
+- Elevation-based risk classification
+- Overlay analysis and visualization
+
+## Tools
+- Python
+- GeoPandas
+- Rasterio
+- Matplotlib
+
+## Study Area
+Accra Metropolitan Area, Ghana
