@@ -26,3 +26,9 @@ This project applies geospatial analytics to assess flood risk in Accra, Ghana. 
 
 ## Study Area
 Accra Metropolitan Area, Ghana
+
+## Project Status
+This project is under active development. Current work focuses on establishing the spatial analysis workflow. Future updates will include integration of real-world datasets and enhanced flood susceptibility modeling.
+
+## Relevance
+Flooding is a major urban challenge in Accra, Ghana. This project demonstrates how geospatial analytics can support data-driven decision-making for urban resilience and disaster risk reduction.
