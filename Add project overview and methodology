@@ -32,3 +32,10 @@ This project is under active development. Current work focuses on establishing t
 
 ## Relevance
 Flooding is a major urban challenge in Accra, Ghana. This project demonstrates how geospatial analytics can support data-driven decision-making for urban resilience and disaster risk reduction.
+
+## Sample Output
+
+Below is a demonstration flood risk map generated using the Python workflow in this repository.  
+The map highlights areas of higher flood susceptibility based on simulated terrain and river proximity, inspired by flooding challenges in Accra, Ghana.
+
+![Flood Risk Map](outputs/project1_flood_risk_accra_demo.png)
